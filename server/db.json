@@ -1,43 +1,12 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "title": "BUY MILK"
+      "id": "847377b0-8e5b-40c4-8429-d08ea3076f8e",
+      "title": "read book"
     },
     {
-      "id": "8e7236e0-9b23-40da-b37b-fab1b52a71f2",
-      "title": {
-        "dispatchConfig": null,
-        "_targetInst": null,
-        "_dispatchListeners": null,
-        "_dispatchInstances": null,
-        "nativeEvent": null,
-        "type": null,
-        "target": null,
-        "eventPhase": null,
-        "bubbles": null,
-        "cancelable": null,
-        "defaultPrevented": null,
-        "isTrusted": null,
-        "view": null,
-        "detail": null,
-        "screenX": null,
-        "screenY": null,
-        "clientX": null,
-        "clientY": null,
-        "pageX": null,
-        "pageY": null,
-        "ctrlKey": null,
-        "shiftKey": null,
-        "altKey": null,
-        "metaKey": null,
-        "button": null,
-        "buttons": null
-      }
-    },
-    {
-      "id": "8a8441b8-cc8b-4251-90d6-e91bb57563ca",
-      "title": "BUY SUGAR"
+      "id": "4d076847-9900-4a36-8e5d-7d7eca020970",
+      "title": "gym"
     }
   ]
 }
