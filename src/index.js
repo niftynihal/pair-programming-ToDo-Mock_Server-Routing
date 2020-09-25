@@ -2,12 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import {BrowserRouter} from 'react-router-dom'
 // import * as serviceWorker from './serviceWorker';
+import {AuthContextProvider} from './Components/AuthContextProvider'
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <BrowserRouter>
+    <AuthContextProvider>
+      <App />
+    </AuthContextProvider>
+  </BrowserRouter>,
   document.getElementById('root')
 );
 
